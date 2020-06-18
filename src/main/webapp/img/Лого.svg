@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="364" height="187.215" viewBox="0 0 364 187.215">
+  <g id="Лого" transform="translate(-811 -441)">
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="87.5" cy="87.5" r="87.5" transform="translate(811 441)" fill="#fff"/>
+    <text id="Clothes" transform="translate(815 562)" font-size="120" font-family="Aclonica-Regular, Aclonica"><tspan x="0" y="0">C</tspan><tspan y="0" font-size="80">lothes</tspan></text>
+    <g id="hanger-tool-line" transform="translate(807.857 534.367) rotate(-16)" opacity="0.72">
+      <g id="Group_4" data-name="Group 4" transform="translate(0 25.086)">
+        <path id="Path_16" data-name="Path 16" d="M85.942,97.63H9.548A9.549,9.549,0,0,1,4.978,79.7l33.84-19.085a2.4,2.4,0,1,1,2.36,4.188L7.311,83.9a4.742,4.742,0,0,0,2.237,8.923H85.942a4.742,4.742,0,0,0,2.265-8.907L54.659,65a2.157,2.157,0,0,1-.485-.186,6.945,6.945,0,0,1,1.008-12.623,2.334,2.334,0,0,1,.463-.115A11.487,11.487,0,1,0,39.962,41.38a2.4,2.4,0,1,1-4.808,0A16.293,16.293,0,1,1,56.961,56.716a2.249,2.249,0,0,1-.4.106,2.138,2.138,0,0,0-.316,3.617,2.169,2.169,0,0,1,.432.175l33.869,19.1a9.55,9.55,0,0,1-4.6,17.918Z" transform="translate(0 -25.086)"/>
+      </g>
+    </g>
+    <path id="Path_17" data-name="Path 17" d="M875.81,548.536s7.749,3.539,7.2,13.545" transform="translate(-1 -1)" fill="none" stroke="#464646" stroke-linecap="round" stroke-width="5"/>
+  </g>
+</svg>
